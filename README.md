@@ -237,44 +237,6 @@ npx tsc --noEmit
 - Ortalama puan hesaplama
 - Değerlendirme geçmişi
 
-## 🤝 Katkıda Bulunma
-
-Bu projeye katkıda bulunmak isterseniz:
-
-1. Bu repository'yi fork edin
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
-
-### 📝 Commit Mesaj Formatı:
-```
-feat: yeni özellik ekleme
-fix: hata düzeltme
-docs: dokümantasyon güncelleme
-style: kod formatlama
-refactor: kod yeniden düzenleme
-test: test ekleme
-chore: bakım işleri
-```
-
-## 🐛 Hata Bildirimi
-
-Bir hata ile karşılaştığınızda lütfen [Issues](https://github.com/KULLANICI_ADINIZ/RestoranPro/issues) sayfasından bildirin.
-
-Hata bildiriminde aşağıdaki bilgileri dahil edin:
-- Cihaz/Platform bilgisi
-- Hata mesajı (varsa)
-- Hatayı tekrar oluşturma adımları
-- Beklenen davranış
-
-## 📞 Destek
-
-Sorularınız için:
-- 📧 Email: destek@restoranpro.com
-- 🐛 Issues: [GitHub Issues](https://github.com/KULLANICI_ADINIZ/RestoranPro/issues)
-- 📖 Dokümantasyon: [Wiki](https://github.com/KULLANICI_ADINIZ/RestoranPro/wiki)
-
 ## 📄 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
