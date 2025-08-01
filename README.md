@@ -279,37 +279,4 @@ Sorularınız için:
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
 
-## 👨‍💻 Geliştirici
-
-**RestoranPro Ekibi**
-- 🔗 GitHub: [@KULLANICI_ADINIZ](https://github.com/KULLANICI_ADINIZ)
-- 📧 Email: developer@restoranpro.com
-
----
-
-<div align="center">
-  <p>❤️ ile Türkiye'de geliştirilmiştir</p>
-  
-  **RestoranPro** - *Lezzetin Dijital Adresi*
-</div>
-
-## 🔄 Güncelleme Notları
-
-### v1.0.0 (Mevcut)
-- ✅ Temel restoran sipariş sistemi
-- ✅ Firebase entegrasyonu
-- ✅ Sepet yönetimi
-- ✅ Kullanıcı profil sistemi
-- ✅ Değerlendirme sistemi
-
-### 🚀 Gelecek Özellikler
-- 🔔 Push notification desteği
-- 💳 Çoklu ödeme yöntemi entegrasyonu
-- 🗺️ Harita entegrasyonu
-- 🎯 Kişiselleştirilmiş öneriler
-- 📊 Sipariş analytics
-- 🌙 Dark mode desteği
-
----
-
 > **Not**: Bu uygulama eğitim amaçlı geliştirilmiştir. Gerçek bir ticari ürün değildir.
